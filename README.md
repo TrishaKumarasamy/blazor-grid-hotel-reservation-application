@@ -50,5 +50,4 @@ dotnet run
 ```
 ## References
 
-- [ASP.NET Core Documentation](https://learn.microsoft.com/en-us/aspnet/core)
 - [Blazor Documentation](https://learn.microsoft.com/en-us/aspnet/core/blazor)
