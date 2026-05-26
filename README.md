@@ -1,6 +1,6 @@
 # Hotel Booking Application
 
-A modern Blazor Web App for browsing and booking hotel rooms, built with .NET 8 and Blazor components.
+A modern Blazor Web App for browsing and booking hotel rooms, built with .NET 8 and [Blazor components](https://www.syncfusion.com/blazor-components).
 
 ## Overview
 
@@ -50,4 +50,4 @@ dotnet run
 ```
 ## References
 
-- [Blazor Documentation](https://learn.microsoft.com/en-us/aspnet/core/blazor)
+- [Blazor Documentation](https://blazor.syncfusion.com/documentation/getting-started/blazor-web-app)
