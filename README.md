@@ -1,6 +1,6 @@
 # Hotel Booking Application
 
-A modern Blazor Web App for browsing and booking hotel rooms, built with .NET 8 and [Blazor components](https://www.syncfusion.com/blazor-components).
+A modern Blazor Web App for browsing and booking hotel rooms, built with [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid), featuring a powerful DataGrid for efficient data management and display.
 
 ## Overview
 
@@ -50,4 +50,6 @@ dotnet run
 ```
 ## References
 
-- [Blazor Documentation](https://blazor.syncfusion.com/documentation/getting-started/blazor-web-app)
+- [Blazor Documentation](https://blazor.syncfusion.com/documentation/introduction)
+- [Blazor DataGrid Documentation](https://blazor.syncfusion.com/documentation/datagrid/getting-started-with-web-app)
+- [Online DataGrid Demo](https://blazor.syncfusion.com/demos/datagrid/overview?theme=fluent2)
